@@ -1,0 +1,18 @@
+{
+    "name": "marketplace/backend",
+    "description": "Component Marketplace Backend",
+    "type": "project",
+    "require": {
+        "php": "^8.1",
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.7",
+        "php-di/php-di": "^7.0",
+        "vlucas/phpdotenv": "^5.6",
+        "firebase/php-jwt": "^6.11"
+    },
+    "authors": [
+        {
+            "name": "Developer"
+        }
+    ]
+}
